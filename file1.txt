@@ -9,3 +9,6 @@ Plan of work
 4. Push.
 5. Clone
 
+
+t3 ir labots otrreiz.
+
