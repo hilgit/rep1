@@ -9,3 +9,4 @@ Plan of work
 4. Push.
 5. Clone
 
+Nu un tagad papildinam file3.txt
