@@ -1,0 +1,11 @@
+This is the first file in t3.
+Papildinats.
+Un vēl reiz papildināts.
+
+Plan of work
+1. Create repositary.
+2. Add files.
+3. Commite.
+4. Push.
+5. Clone
+
